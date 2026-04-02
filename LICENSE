@@ -1,0 +1,48 @@
+1. Grant of Copyright License
+A copyright license is a legal permission from the copyright holder (licensor) to another party (licensee) to use the copyrighted work under specific conditions, without transferring ownership of the work. Key points:
+Purpose: To allow reproducing, distributing, performing, or displaying the work without infringing copyright.
+Scope: Defined explicitly in a written agreement; may include limited rights, territorial limits, or duration.
+Types of Licensing:
+Exclusive: Only the licensee can use the rights; even the licensor cannot use them during the license period.
+Non-Exclusive: The licensee can use the rights, but the licensor can license them to others.
+Voluntary License: Granted at the licensor’s discretion.
+Sole or Co-Exclusive Licenses: Restrict use to one or a small group of licensees.
+Indian Law Reference: Sections 30–31 of the Copyright Act, 1957; agreements must be in writing and specify rights, duration, territorial extent, and royalty (if any).
+Essentially, the license gives permission constrained by the agreement while the licensor retains ownership.
+2. Grant of Patent License
+A patent license is the authorization by a patent owner to another party to make, use, sell, or otherwise exploit the patented invention, typically through a written licensing agreement.
+Rights Conferred: May include manufacturing, selling, importing, or sublicensing the invention.
+Types:
+Exclusive Patent License: Licensee has exclusive exploitation rights; licensor cannot exploit the patent during the license.
+Non-Exclusive Patent License: Licensor can license multiple parties.
+Voluntary License: Granted freely by the patent owner.
+Compulsory License: Granted by Government in specific conditions such as public interest or unmet public needs (Sections 84, 92 of the Patents Act, 1970 in India).
+Carrot License: Licensee receives know-how without transfer of manufacturing rights.
+Condition: Ownership of the patent remains with the licensor, unless explicitly transferred in the license (in the case of exclusive licenses, sometimes referred to as “effective ownership” for exploitation purposes).
+3. Redistribution
+Redistribution refers to the act of sharing, reproducing, or distributing copies of a work or its derivative works, subject to applicable licensing terms:
+Rights Involved: Copying, distributing, creating derivative works (modified versions) and performing them publicly.
+Conditions (generally under open-source licenses such as Apache 2.0):
+Provide a copy of the license to recipients.
+Retain copyright, patent, and attribution notices.
+Mark any modified files clearly.
+Include any NOTICE file information if present.
+Purpose: Ensures that redistribution does not violate the original licensing terms while maintaining attribution and legal transparency.
+4. Submission of Contribution
+Submission of Contribution is a legal and practical concept commonly used in collaborative works or open-source projects:
+Definition: Any work (original or modification) submitted to a licensor for inclusion in a project.
+Effect: By submitting, the contributor usually grants the licensor rights under the existing license to use, reproduce, and distribute the contribution.
+Conditions:
+Contribution must be intentional (e.g., sent via email, code repository, mailing list).
+Exclusions: Contributions explicitly marked as “Not a Contribution” do not carry licensing rights.
+Example (Apache 2.0 License): Each contributor grants a perpetual, worldwide, royalty-free copyright and patent license to incorporate their contribution into the work.
+Key Points Across IP Law:
+Ownership vs. Use: Licensing and submission grant rights without transferring ownership; assignment or exclusive licensing may transfer ownership for certain rights.
+Documentation: Rights, duration, and territorial applicability should always be clearly documented.
+Legal Binding: Assignments and licenses must comply with statutory requirements (e.g., Section 18–31 of the Indian Copyright Act; Section 68 of the Patents Act).
+References
+Indian Copyright Act, 1957: Sections 18, 19, 30–31
+Patents Act, 1970: Sections 2(f), 68, 84, 92
+Apache License Version 2.0 (2004): http://www.apache.org/licenses/LICENSE-2.0
+Legal Service India: Licensing of Intellectual Property in India
+Mondaq on Patent Licensing in India
